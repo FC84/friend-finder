@@ -7,4 +7,4 @@
 *Friend Finder* application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end.
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out
+*Friend Finder* is deployed to Heroku. Please check it out [Here] https://howtofindyourbff.herokuapp.com/
